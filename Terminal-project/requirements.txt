@@ -1,0 +1,4 @@
+socket
+threading
+winsound
+pynput.keyboard
