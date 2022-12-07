@@ -3,7 +3,7 @@ from pynput.keyboard import Key, Listener
 import winsound
 
 
-host = '127.0.0.1'                                                      #LocalHost
+host = socket.gethostbyname(socket.gethostname())                                                      #LocalHost
 port = 7976                                                             #Choosing unreserved port
 
 server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)              #socket initialization
