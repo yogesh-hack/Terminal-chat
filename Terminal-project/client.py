@@ -15,7 +15,7 @@ def on_release(key):
 # Collect events until released
 
 print(f"""
-    ___________                  .__              .__  _________ .__            __   
+___________                  .__              .__  _________ .__            __   
 \__    ___/__________  _____ |__| ____ _____  |  | \_   ___ \|  |__ _____ _/  |_ 
   |    |_/ __ \_  __ \/     \|  |/    \\__  \ |  | /    \  \/|  |  \\__  \\   __\
   |    |\  ___/|  | \/  Y Y  \  |   |  \/ __ \|  |_\     \___|   Y  \/ __ \|  |  
@@ -39,7 +39,7 @@ def receive():
             else:
                 print(message)
         except:                                                 #case on wrong ip/port details
-            print("An error occured!")
+            print("Something went wrong...!")
             client.close()
             break
 def write():
