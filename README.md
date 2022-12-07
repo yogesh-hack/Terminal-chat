@@ -12,7 +12,7 @@
 
 
 ##Screenshot
-![screenshot]()
+![screenshot](https://user-images.githubusercontent.com/83384315/206168055-d11081fe-5eeb-4d0d-880d-0631ee602f54.png)
 
 ## Installation
 To run, install it locally:
