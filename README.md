@@ -24,6 +24,8 @@ $ git clone https://github.com/yogesh-hack/Ternimal-chat.git
 ## Run Terminal-chat
 
 ```
+$ cd Terminal-chat
+$ cd Terminal-project
 $ python server.py
 $ python client.py
 ```
