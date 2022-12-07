@@ -25,8 +25,14 @@ $ git clone https://github.com/yogesh-hack/Ternimal-chat.git
 
 ```
 $ cd Terminal-chat
+```
+```
 $ cd Terminal-project
+```
+```
 $ python server.py
+```
+```
 $ python client.py
 ```
 
